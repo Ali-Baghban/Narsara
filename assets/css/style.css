@@ -35,3 +35,15 @@
     background-size: cover;
     -o-background-size: cover;
     }
+.cart-body {
+  background: url('../img/bg-cart.jpg') no-repeat center center fixed;
+}
+.quantity-input {
+  width: 70px;
+}
+.cart-input{
+  width: 100%;
+}
+.btn-outline-warning {
+  width: 100px;
+}
